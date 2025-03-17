@@ -31,8 +31,4 @@ I'm a chemical engineer very interested in integrating AI and ML in the chemical
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/EliaSavino/EliaSavino/output/snake.svg" alt="Snake animation" />
-
-###
